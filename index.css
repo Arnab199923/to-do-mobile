@@ -164,19 +164,3 @@
 
   
 }
-
-#right :hover{
-
-    background-color: red;
- 
-}
-
-button{
-    cursor: pointer;
-}
-
-button :hover{
-
-    background-color: red;
-    transform: translate(12);
-}
